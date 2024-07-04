@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=30&center=true&vCenter=true&width=500&lines=Greetings%2C+I%27m+Robert+Quesadas+Silva!)](https://github.com/MadeByRobs)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=30&left=true&vCenter=true&width=1000&lines=Greetings,I'm+Robert+Quesadas+Silva!)](https://github.com/RobertQSilva)
 
 ---
 
