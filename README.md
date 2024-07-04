@@ -13,6 +13,9 @@
 ## 🛠 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=c,html,java)](https://skillicons.dev)
+<span style="background-color: white; padding: 5 px; display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/400px-UML_logo.svg.png" alt="UML" width="50" height="50">
+</span>
 
 ## 📊 GitHub Stats
 
